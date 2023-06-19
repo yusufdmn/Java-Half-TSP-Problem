@@ -14,4 +14,4 @@ The goal is to find a tour that has the minimum total distance.
 
 Very large inputs are considered.
 
-The used algorithms are the Nearest Neighbor Algorithm and the 2-opt Local Search algorithm.
+The used algorithms are the Nearest Neighbor algorithm and the 2-opt Local Search algorithm.
