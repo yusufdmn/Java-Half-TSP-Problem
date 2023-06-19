@@ -3,9 +3,9 @@
 
 The inputs are txt files in the following format:
 
-0 125 325
-1 265 56
-2 35 168
+0 125 325  
+1 265 56  
+2 35 168  
 ...
 
 Each line represents a city with id, x, and y parameters.
